@@ -1,3 +1,3 @@
-# bmi_calculator
-Simple Flutter applications that calculates the users BMI (body mass index)
+# BMI Calculator
+An android app built with the Flutter framework that calculates the user's BMI (body-mass-index). 
 
